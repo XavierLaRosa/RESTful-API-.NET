@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{4FCD0EBC-41E0-4E55-8C27-73244133C897}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="StockUpAPI/Startup.cs">
+    <Files>
+      <File FileName="StockUpAPI/Properties/launchSettings.json" Line="27" Column="2" />
+      <File FileName="StockUpAPI/Program.cs" />
+      <File FileName="StockUpAPI/Startup.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="StockUp" expanded="True">
+            <Node name="StockUpAPI" expanded="True">
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.StockUpAPI FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
